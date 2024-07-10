@@ -1,0 +1,1 @@
+# entrar-com-4-numeros-e-imprimir-a-media-ponderada-Os-pessos-sao-1-2-3-e-4
